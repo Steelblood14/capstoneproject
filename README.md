@@ -1,3 +1,4 @@
+# 📊 IBM Data Analyst Capstone Project
 - Explored trends in programming language usage, databases, and technology adoption  
 - Built interactive dashboards in Cognos to visualize key insights  
 - Analyzed both current usage and future technology preferences  
